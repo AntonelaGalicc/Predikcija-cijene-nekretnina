@@ -20,3 +20,5 @@ Analiza grešaka: Detaljno su ispitani rubni slučajevi (najveći promašaji) ka
 Zaključak
 Projekt dokazuje da moderni algoritmi strojne inteligencije mogu vrlo precizno procijeniti tržišnu vrijednost nekretnina,
 pri čemu su geografski podaci i kvaliteta izvedbe ključni faktori preciznosti.
+
+Dataset -> https://www.kaggle.com/datasets/sukhmandeepsinghbrar/housing-price-dataset?resource=download
